@@ -1,6 +1,7 @@
 # GoAssessment This is a sample code for sending Notification.
 
 Url: http://localhost:8000/notificationSent
+
 Method : Post
 Body Param:
 {
